@@ -1,6 +1,8 @@
 # GetTokenLine
 You can get Token Bot Line with computer program (.exe) | (Windows)
 
+##Need Connection##
+
 Created by Team Elite Bot
 
 Creator is Fathan
